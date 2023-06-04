@@ -28,6 +28,8 @@ test(23, 10); test(generateRandomAge(), 10);
         test(generateRandomAge(),69);
         test(26,27);
         test(37,58);
+        test(23, 10);
+        test(generateRandomAge(),10);
 
 
 
